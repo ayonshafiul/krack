@@ -15,7 +15,6 @@ const Hello = () => {
         theme="dark"
         extensions={[python()]}
         indentWithTab={true}
-        tabIndex
       />
       <XTerm />
     </div>
