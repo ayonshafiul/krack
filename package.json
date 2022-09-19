@@ -109,6 +109,7 @@
   "dependencies": {
     "@codemirror/lang-javascript": "^6.0.2",
     "@codemirror/lang-python": "^6.0.1",
+    "@monaco-editor/react": "^4.4.5",
     "@uiw/codemirror-theme-dracula": "^4.12.1",
     "@uiw/react-codemirror": "4.8.1",
     "electron-debug": "^3.2.0",

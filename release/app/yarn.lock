@@ -2,3 +2,14 @@
 # yarn lockfile v1
 
 
+"nan@^2.14.0":
+  "integrity" "sha512-UdAqHyFngu7TfQKsCBgAA6pWDkT8MAO7d0jyOecVhN5354xbLqdn8mV9Tat9gepAupm0bt2DbeaSC8vS52MuFA=="
+  "resolved" "https://registry.npmjs.org/nan/-/nan-2.16.0.tgz"
+  "version" "2.16.0"
+
+"node-pty@^0.10.1":
+  "integrity" "sha512-JTdtUS0Im/yRsWJSx7yiW9rtpfmxqxolrtnyKwPLI+6XqTAPW/O2MjS8FYL4I5TsMbH2lVgDb2VMjp+9LoQGNg=="
+  "resolved" "https://registry.npmjs.org/node-pty/-/node-pty-0.10.1.tgz"
+  "version" "0.10.1"
+  dependencies:
+    "nan" "^2.14.0"
